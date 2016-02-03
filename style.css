@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Cortana", sans-serif;
+}
+
+body {
+	background-color: #772222;
+}
+
+#main {
+	width: 80%;
+	margin: 0 auto;
+	color: #FFDD19;
+}
+
+#search {
+	width: 100%;
+}
+
+#searchbox {
+	background-color: #772222;
+	border: 1px gray solid;
+	color: white;
+	margin: 300px auto;
+	display: block;
+	font-size: 2.5em;
+	transition: border-color 0.5s;
+	padding: 10px;
+	width: 600px;
+}
+
+#searchbox:hover {
+	border-color: white;
+}
+
+#searchbox:focus {
+	outline: none;
+	border-color: white;
+}
