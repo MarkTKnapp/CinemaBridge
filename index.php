@@ -5,7 +5,6 @@
 </head>
 <body>
 	<div id="main">
-		WASSUP MY NIGGA
 		<!--<form id="search"> -->
 		<div id="search">
 			<input id="searchbox" type="text">
